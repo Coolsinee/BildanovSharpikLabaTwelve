@@ -1,0 +1,3 @@
+﻿This is a test string.
+Another test string.
+Yet another test string.
